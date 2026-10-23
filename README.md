@@ -1,21 +1,86 @@
+<div align="center">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jxmes-spy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=jxmes-spy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jxmes-spy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:5b2a99,100:b388ff&height=220&section=header&text=jxme-spy&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=⚡%20Eternity%20in%20every%20commit%20⚡&descAlignY=60&descSize=18" width="100%" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jxmes-spy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- Your Raiden GIF: put the file at assets/raiden.gif -->
+<img src="./assets/raiden.gif" width="100%" alt="Raiden banner" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Student;Open+Source+Enthusiast;Building+things+one+commit+at+a+time" alt="Typing SVG" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jxmes-spy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+  <img src="https://img.shields.io/github/followers/jxme-spy?style=for-the-badge&logo=github&color=7f00ff&labelColor=1a0b2e" />
+  <img src="https://komarev.com/ghpvc/?username=jxme-spy&style=for-the-badge&color=b388ff&labelColor=1a0b2e" />
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jxmes-spy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚡ About Me
+
+```js
+const jxme = {
+  handle: "jxme-spy",
+  role: "Frontend Developer",
+  status: "Student",
+  passion: "Open Source",
+  currentlyLearning: ["Advanced React", "System Design"],
+  lookingFor: "Open-source projects to contribute to",
+  funFact: "I debug better with music on 🎧",
+};
+```
+
+- 🌐 I build clean, responsive interfaces
+- 📚 Studying while shipping real projects
+- 🤝 Always open to collaborating and contributing
+- 💬 Ask me about **React, CSS, and JavaScript**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,cpp,react,css,php,mysql&theme=dark" />
+</div>
+
+<div align="center">
+
+| Category | Tools |
+|----------|-------|
+| **Languages** | Java · JavaScript · Python · C++ · PHP · SQL |
+| **Frontend** | React · CSS |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jxme-spy&show_icons=true&hide_border=true&bg_color=1a0b2e&title_color=b388ff&icon_color=7f00ff&text_color=e0d4ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxme-spy&layout=compact&hide_border=true&bg_color=1a0b2e&title_color=b388ff&text_color=e0d4ff" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jxme-spy&background=1A0B2E&ring=7F00FF&fire=B388FF&currStreakLabel=E0D4FF&sideLabels=B388FF&currStreakNum=E0D4FF&sideNums=E0D4FF&dates=9E86C8&stroke=5B2A99&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Project One**](https://github.com/jxme-spy) | Short description here | `React` `CSS` |
+| [**Project Two**](https://github.com/jxme-spy) | Short description here | `Java` `SQL` |
+| [**Project Three**](https://github.com/jxme-spy) | Short description here | `Python` |
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/jxme-spy"><img src="https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=b388ff" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-5b2a99?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-7f00ff?style=for-the-ba
+  
